@@ -1,3 +1,4 @@
 Line1
 Line2
 wrong line local and remote
+new line
